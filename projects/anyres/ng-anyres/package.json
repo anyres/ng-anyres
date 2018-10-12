@@ -1,0 +1,10 @@
+{
+  "name": "@anyres/ng-anyres",
+  "version": "0.2.5",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@anyres/core": "^0.2.5",
+    "rxjs": "^6.0.0"
+  }
+}
